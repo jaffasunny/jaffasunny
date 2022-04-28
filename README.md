@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 - 🏫 7-th Semester Computer Science Undergraduate
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
 - 📫 How to reach me: [Active Socials](https://linktr.ee/jaffasunny){:target="\_blank"}
