@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 7-th Semester Computer Science Undergraduate
+- 🏫 Final Semester Computer Science Undergraduate
 - 💬 Ask me about Frontent Development | ReactJS | TypeScript | JavaScript 
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
 - 📫 How to reach me: <a href="https://linktr.ee/jaffasunny" target="_blank">Active Socials!</a>
