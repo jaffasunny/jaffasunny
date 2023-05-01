@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 Final Semester Computer Science Undergraduate
-- 💬 Ask me about Frontent Development | ReactJS | TypeScript | JavaScript 
+- 💬 Ask me about Frontent Development | ReactJS | ReactNative | TypeScript | JavaScript | TailwindCSS
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
 - 📫 How to reach me: <a href="https://linktr.ee/jaffasunny" target="_blank">Active Socials!</a>
