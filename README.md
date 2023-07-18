@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
+- 🌱 I’m currently learning NodeJS, ExpressJS, and MongoDB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 Final Semester Computer Science Undergraduate
-- 💬 Ask me about Frontent Development | ReactJS | ReactNative | TypeScript | JavaScript | TailwindCSS
+- 💬 Ask me about Frontend Development | ReactJS | NextJS | ReactNative | TypeScript | JavaScript | TailwindCSS
 - 🌱 For Backend & Database NodeJS | ExpressJS | MongoDB
 - 📫 How to reach me: <a href="https://linktr.ee/jaffasunny" target="_blank">Active Socials!</a>
