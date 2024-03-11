@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 Final Semester Computer Science Undergraduate
-- 💬 Ask me about Frontend Development | ReactJS | NextJS | ReactNative | TypeScript | JavaScript | TailwindCSS
+- 🏫 Computer Science Graduate
+- 💬 Ask me about Frontend Development | ReactJS | NextJS | ReactNative | TypeScript | JavaScript | TailwindCSS | Zustand | Redux Toolkit & Query 
 - 🌱 For Backend & Database NodeJS | ExpressJS | MongoDB
 - 📫 How to reach me: <a href="https://linktr.ee/jaffasunny" target="_blank">Active Socials!</a>
